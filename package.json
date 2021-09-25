@@ -17,10 +17,11 @@
     "url": "https://github.com/Automattic/_s/issues"
   },
   "devDependencies": {
+    "@wordpress/env": "^4.1.1",
     "@wordpress/scripts": "^12.1.0",
     "dir-archiver": "^1.1.1",
-    "node-sass": "^4.14.1",
-    "rtlcss": "^2.5.0"
+    "rtlcss": "^2.5.0",
+    "sass": "^1.42.1"
   },
   "rtlcssConfig": {
     "options": {
